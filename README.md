@@ -1,4 +1,4 @@
-# EDI-Summer-Project
+# EDI-MacTutor-Review
 
 * Creating extractive summaries to identify key sentences.
 * Review key sentences through the lens of EDI principles.
