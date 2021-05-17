@@ -1,4 +1,4 @@
-# EDI-MacTutor-Review
+# EDI Review - MacTutor
 
 * Creating extractive summaries to identify key sentences.
 * Review key sentences through the lens of EDI principles.
